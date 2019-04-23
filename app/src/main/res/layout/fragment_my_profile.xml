@@ -40,7 +40,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/header_cover_image"
-                android:background="#ebca0707"
+                android:background="#EB2B2A2A"
                 android:elevation="4dp"
                 android:paddingBottom="24dp">
 
@@ -55,7 +55,7 @@
                     android:layout_marginTop="16dp"
                     android:clickable="true"
 
-                    android:src="@android:drawable/ic_menu_edit" />
+                    android:src="@android:drawable/ic_menu_edit"/>
 
             <TextView
                     android:id="@+id/name"
