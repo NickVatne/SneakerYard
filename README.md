@@ -4,7 +4,7 @@ A trail application created for a big passion in my life, Sneakers. With the int
 
 Ongoing bugs
 
-- Camera crashes on load
+- Camera crashes on load (Fixed on commit 2)
 
 - Weak home page
 

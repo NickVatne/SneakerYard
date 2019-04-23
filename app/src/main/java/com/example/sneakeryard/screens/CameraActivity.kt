@@ -24,8 +24,10 @@ class CameraActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-        btn_take_photo.setOnClickListener { takeNewPhoto() }
+        setContentView(R.layout.camera_activity)
+        btn_take_photo.setOnClickListener {
+            takeNewPhoto()
+        }
         hasPermissionAndOpenCamera()
     }
 
