@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                                             android:layout_height="match_parent">
+
+    <TextView
+            android:text="@string/sneakers"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="191dp"
+            android:id="@+id/shoe_name"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="163dp"
+            android:layout_marginBottom="178dp" app:layout_constraintBottom_toTopOf="@+id/textView3"/>
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/yet_to_be_implemented"
+
+              tools:layout_editor_absoluteY="360dp" tools:layout_editor_absoluteX="16dp" android:id="@+id/textView3"/>
+</android.support.constraint.ConstraintLayout>
