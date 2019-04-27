@@ -13,9 +13,11 @@
     <string name="login">Login</string>
     <string name="username">Username</string>
     <string name="in_this_section_you_can_showcase_your_sneakers_to_other_users_on_the_platform_where_soon_enough_a_trading_buying_selling_platform_will_be_implemented_for_use_snap_a_photo_of_your_sneaker_and_let_the_world_know_what_you_copped">
-        In this section you can showcase your sneakers to other users on the platform where soon enough a trading buying selling platform will be implemented for use snap a photo of your sneaker and let the world know what you copped
+        In this section you can showcase your sneakers to other users on the platform where soon enough a trading buying
+        selling platform will be implemented for use snap a photo of your sneaker and let the world know what you copped
     </string>
     <string name="add_more_sneakers">Add more sneakers</string>
     <string name="yet_to_be_implemented">YET TO BE IMPLEMENTED</string>
     <string name="label_take_photo">label_take_photo</string>
+    <string name="stores_near_you">Stores near you</string>
 </resources>

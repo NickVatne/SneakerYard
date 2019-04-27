@@ -47,6 +47,7 @@ dependencies {
     implementation 'com.camerakit:camerakit:1.0.0-beta3.11'
     implementation 'com.camerakit:jpegkit:0.1.0'
     implementation 'com.github.florent37:camerafragment:1.0.9'
+    implementation 'com.google.android.gms:play-services-maps:16.1.0'
 
 }
 configurations.all {

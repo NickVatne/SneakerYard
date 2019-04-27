@@ -10,7 +10,7 @@ import com.example.sneakeryard.screens.HomeFragment
 import com.example.sneakeryard.screens.MyProfileFragment
 import kotlinx.android.synthetic.main.activity_main.*
 import android.content.Intent
-
+import com.example.sneakeryard.screens.StoreFragment
 
 
 class MainActivity : AppCompatActivity() , BottomNavigationView.OnNavigationItemSelectedListener {
@@ -32,6 +32,8 @@ class MainActivity : AppCompatActivity() , BottomNavigationView.OnNavigationItem
             R.id.navigation_dashboard-> fragment = BrowseFragment()
 
             R.id.navigation_notifications -> fragment = MyProfileFragment()
+
+            R.id.navigation_store -> fragment = StoreFragment()
 
         }
 
